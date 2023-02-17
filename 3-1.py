@@ -1,3 +1,5 @@
+## 문제 1. 가방속 물건과 물건 갯수, 지갑 유무, 손수건 유무를 알 수 있는 Bag 클래스를 구현하라.
+
 class Bag:
     def __init__(self):
         self.items = []
